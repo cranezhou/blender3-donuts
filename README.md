@@ -4,7 +4,7 @@ blender3 donuts practice sample project was from blender guru tutorial.
 
 ## online tutorial video
 
-https://www.bilibili.com/video/BV1Km4y1974J  (中文字幕）
+https://www.bilibili.com/video/BV1Km4y1974J  (中文字幕）           
 https://www.bilibili.com/video/av722188925
 
 ## Tutorial 1: basic operations in blender3
