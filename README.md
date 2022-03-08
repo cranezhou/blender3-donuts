@@ -36,8 +36,9 @@ https://www.blender.org/about/license/
 https://www.blenderguru.com/privacy-policy
 
 Not Confirmed Yet:
-This Project is INTENDED to be released under the terms of the BSD license.
+This Project is INTENDED to be released under the terms of the BSD license.  
 See [LICENSE](LICENSE.txt) for more information or see:  
-https://opensource.org/licenses/BSD-3-Clause.
+https://opensource.org/licenses/BSD-3-Clause.  
+
 
 
