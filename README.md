@@ -35,7 +35,7 @@ Rendering Images:
 (~/render/images)
 Eevee：blender3-donuts-t6-009-001.png (00.04.46 min)  
 Cycles:  
-Sampling Noise:(4096:0)，(100:0)  
+Samples: (4096, 0)，(100, 0), Noise: 0.01 
 blender3-donuts-t6-009-002.png (31.52.02 min)  
 blender3-donuts-t6-009-003.png (05.05.87 min)  
 
@@ -51,7 +51,7 @@ Rendering Images:
 (~/render/images)
 Eevee：blender3-donuts-t8-010-001.png (00.04.16 min)  
 Cycles： 
-Sampling Noise: (100:0)  
+Samples: (100, 0) Noise: 0.01
 blender3-donuts-t8-010-002.png (03.23.45 min)  
 
 ---------------------------------------
@@ -65,11 +65,56 @@ Please see ~/src/blender3-donuts-t9-021.blend
 Please see ~/src/blender3-donuts-t10-020.blend  
 
 ## Tutorial 11:
+
+Please see ~/src/blender3-donuts-t11-016.blend  
+
 ## Tutorial 12:
+
+Please see ~/src/blender3-donuts-t12-023.blend  
+
 ## Tutorial 13:
+
+Please see ~/src/blender3-donuts-t13-030.blend  
+
+Render Images:
+Eevee：blender3-donuts-t13-022-002.png (00:02.56 min)
+Cycles：
+Samples: (100, 0) Noise: 0.01
+blender3-donuts-t13-022-001.png (02:17.62 min)  
+blender3-donuts-t13-030-001.png (03:05.69 min)  
+
 ## Tutorial 14:
+
+Please see ~/src/blender3-donuts-t14-023.blend  
+
+Render Images:
+Eevee：none
+Cycles：
+Samples: (100, 0) Noise: 0.01
+blender3-donuts-t14-023-001.png (03:12.22 min)  
+
 ## Tutorial 15:
+
+Please see ~/src/blender3-donuts-t15-015.blend  
+
+Render Images:
+Eevee：none
+Cycles：
+Samples: (512, 0) Noise: 0.05
+blender3-donuts-t15-015-001.png (05:21.72 min)
+
 ## Tutorial 16:
+
+Please see ~/src/blender3-donuts-t16-015.blend  
+Please see ~/src/blender3-donuts-t16-015-final-002.blend  
+
+Render Images:  
+Eevee：none  
+Cycles：  
+Samples: (128, 0) Noise: 0.05  
+animations\frames-001\*.png (1, 300)  
+animations\blender3-donuts-t16--015-frames-001-final-0001-0210.mp4  
+animations\blender3-donuts-t16--015-frames-001-final.mp4  
 
 ## License & CopyRight
 
