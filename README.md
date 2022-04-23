@@ -1,16 +1,16 @@
 # blender3-donuts practice sample project
 
-blender3 donuts practice sample project was from blender guru tutorial.
+blender3 donuts practice sample project was from blender guru tutorial.  
 (https://www.bilibili.com/video also supported)  
 
 ## online tutorial video
 
-https://www.bilibili.com/video/BV1Km4y1974J  (中文字幕）           
-https://www.bilibili.com/video/av722188925  
+https://www.bilibili.com/video/BV1Km4y1974J  (中文字幕）            
+https://www.bilibili.com/video/av722188925   
 
 ## Tutorial 1: basic operations in blender3
 
-Please also see ~/doc/Blender 3.0 Shortcuts v1.2.pdf file for your detail information.
+Please also see ~/doc/Blender 3.0 Shortcuts v1.2.pdf file for your detail information.  
 
 ## Tutorial 2: object editing
 
@@ -33,7 +33,7 @@ Please see ~/src/blender3-donuts-t5-013.blend
 Please see ~/src/blender3-donuts-t6-010.blend  
 
 Rendering Images:  
-Eevee：
+Eevee： 
 ~src/render/images/blender3-donuts-t6-009-001.png (00.04.46 min)  
 Cycles:  
 Samples: (4096, 0)，(100, 0), Noise: 0.01  
@@ -49,10 +49,10 @@ Please see ~/src/blender3-donuts-t7-008.blend
 Please see ~/src/blender3-donuts-t8-010.blend  
 
 Rendering Images:  
-Eevee：
+Eevee： 
 ~src/render/images/blender3-donuts-t8-010-001.png (00.04.16 min)  
 Cycles： 
-Samples: (100, 0) Noise: 0.01
+Samples: (100, 0) Noise: 0.01  
 ~src/render/images/blender3-donuts-t8-010-002.png (03.23.45 min)  
 
 ---------------------------------------
@@ -123,7 +123,7 @@ https://www.blender.org/about/license/
 
 https://www.blenderguru.com/privacy-policy  
 
-Not Confirmed Yet:
+Not Confirmed Yet:  
 This Project is INTENDED to be released under the terms of the BSD license.  
 See [LICENSE](LICENSE.txt) for more information or see:  
 https://opensource.org/licenses/BSD-3-Clause.  
