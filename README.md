@@ -1,6 +1,7 @@
 # blender3-donuts practice sample project
 
 blender3 donuts practice sample project was from blender guru tutorial.
+(https://www.bilibili.com/video also supported)  
 
 ## online tutorial video
 
@@ -32,12 +33,12 @@ Please see ~/src/blender3-donuts-t5-013.blend
 Please see ~/src/blender3-donuts-t6-010.blend  
 
 Rendering Images:  
-(~/render/images)  
-Eevee：blender3-donuts-t6-009-001.png (00.04.46 min)  
+Eevee：
+~src/render/images/blender3-donuts-t6-009-001.png (00.04.46 min)  
 Cycles:  
 Samples: (4096, 0)，(100, 0), Noise: 0.01  
-blender3-donuts-t6-009-002.png (31.52.02 min)  
-blender3-donuts-t6-009-003.png (05.05.87 min)  
+~src/render/images/blender3-donuts-t6-009-002.png (31.52.02 min)  
+~src/render/images/blender3-donuts-t6-009-003.png (05.05.87 min)  
 
 ## Tutorial 7: Texturing
 
@@ -48,11 +49,11 @@ Please see ~/src/blender3-donuts-t7-008.blend
 Please see ~/src/blender3-donuts-t8-010.blend  
 
 Rendering Images:  
-(~/render/images)  
-Eevee：blender3-donuts-t8-010-001.png (00.04.16 min)  
+Eevee：
+~src/render/images/blender3-donuts-t8-010-001.png (00.04.16 min)  
 Cycles： 
 Samples: (100, 0) Noise: 0.01
-blender3-donuts-t8-010-002.png (03.23.45 min)  
+~src/render/images/blender3-donuts-t8-010-002.png (03.23.45 min)  
 
 ---------------------------------------
 
@@ -80,8 +81,8 @@ Render Images:
 Eevee：blender3-donuts-t13-022-002.png (00:02.56 min)  
 Cycles： 
 Samples: (100, 0) Noise: 0.01  
-blender3-donuts-t13-022-001.png (02:17.62 min)  
-blender3-donuts-t13-030-001.png (03:05.69 min)  
+~src/render/images/blender3-donuts-t13-022-001.png (02:17.62 min)  
+~src/render/images/blender3-donuts-t13-030-001.png (03:05.69 min)  
 
 ## Tutorial 14:
 
@@ -91,7 +92,7 @@ Render Images:
 Eevee：none  
 Cycles： 
 Samples: (100, 0) Noise: 0.01  
-blender3-donuts-t14-023-001.png (03:12.22 min)  
+~src/render/images/blender3-donuts-t14-023-001.png (03:12.22 min)  
 
 ## Tutorial 15:
 
@@ -101,7 +102,7 @@ Render Images:
 Eevee：none  
 Cycles： 
 Samples: (512, 0) Noise: 0.05  
-blender3-donuts-t15-015-001.png (05:21.72 min)  
+~src/render/images/blender3-donuts-t15-015-001.png (05:21.72 min)  
 
 ## Tutorial 16:
 
@@ -112,9 +113,9 @@ Render Images:
 Eevee：none  
 Cycles： 
 Samples: (128, 0) Noise: 0.05  
-animations\frames-001\*.png (1, 300)  
-animations\blender3-donuts-t16--015-frames-001-final-0001-0210.mp4  
-animations\blender3-donuts-t16--015-frames-001-final.mp4  
+~src/render/animations/frames-001/*.png (1, 300)  
+~src/render/animations/blender3-donuts-t16--015-frames-001-final-0001-0210.mp4  
+~src/render/animations/blender3-donuts-t16--015-frames-001-final.mp4  
 
 ## License & CopyRight
 
@@ -126,6 +127,4 @@ Not Confirmed Yet:
 This Project is INTENDED to be released under the terms of the BSD license.  
 See [LICENSE](LICENSE.txt) for more information or see:  
 https://opensource.org/licenses/BSD-3-Clause.  
-
-
 
